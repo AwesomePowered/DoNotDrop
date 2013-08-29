@@ -1,2 +1,7 @@
-World: Skyblock
-prefix: '&4&l[&6&lSkyLazle&4&l]'
+prefix: '&4&l[&6&lDoNotDrop&4&l]'
+MessageOnDrop: '&4Please do not litter our precious world! '
+MessageOnDeath: ''
+Worlds:
+ - Worlds
+ - Skyblock
+ - KitPvP
